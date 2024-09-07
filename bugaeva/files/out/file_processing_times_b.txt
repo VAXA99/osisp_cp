@@ -1,0 +1,15 @@
+Program Start Time: 0.001 seconds
+Program End Time: 0.743 seconds
+Program Elapsed Time: 0.742 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\2.txt, Start Time: 0.001 seconds, End Time: 0.356 seconds, Elapsed Time: 0.355 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\3.txt, Start Time: 0.001 seconds, End Time: 0.358 seconds, Elapsed Time: 0.357 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\4.txt, Start Time: 0.001 seconds, End Time: 0.364 seconds, Elapsed Time: 0.363 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\6.txt, Start Time: 0.001 seconds, End Time: 0.413 seconds, Elapsed Time: 0.412 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\5.txt, Start Time: 0.001 seconds, End Time: 0.455 seconds, Elapsed Time: 0.454 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\7.txt, Start Time: 0.001 seconds, End Time: 0.555 seconds, Elapsed Time: 0.554 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\9.txt, Start Time: 0.001 seconds, End Time: 0.56 seconds, Elapsed Time: 0.559 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\8.txt, Start Time: 0.001 seconds, End Time: 0.566 seconds, Elapsed Time: 0.565 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\1.txt, Start Time: 0.001 seconds, End Time: 0.592 seconds, Elapsed Time: 0.591 seconds
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\10.txt, Start Time: 0.002 seconds, End Time: 0.74 seconds, Elapsed Time: 0.738 seconds

@@ -1,0 +1,6 @@
+Program Start Time: 0.001 seconds
+Program End Time: 0.484 seconds
+Program Elapsed Time: 0.483 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\bugaeva\files\in\1.txt, Start Time: 0.001 seconds, End Time: 0.483 seconds, Elapsed Time: 0.482 seconds

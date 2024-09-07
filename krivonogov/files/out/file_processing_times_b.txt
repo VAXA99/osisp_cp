@@ -1,0 +1,6 @@
+Program Start Time: 0 seconds
+Program End Time: 0.304 seconds
+Program Elapsed Time: 0.304 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\krivonogov\files\in\1.txt, Start Time: 0.001 seconds, End Time: 0.299 seconds, Elapsed Time: 0.298 seconds

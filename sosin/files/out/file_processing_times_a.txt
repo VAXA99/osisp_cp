@@ -1,0 +1,6 @@
+Program Start Time: 0 seconds
+Program End Time: 0.203 seconds
+Program Elapsed Time: 0.203 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\sosin\files\in\1.txt, Start Time: 0 seconds, End Time: 0.198 seconds, Elapsed Time: 0.198 seconds

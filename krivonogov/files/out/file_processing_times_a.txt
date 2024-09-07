@@ -1,0 +1,10 @@
+Program Start Time: 0.001 seconds
+Program End Time: 1.499 seconds
+Program Elapsed Time: 1.498 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\krivonogov\files\in\1.txt, Start Time: 0.001 seconds, End Time: 0.297 seconds, Elapsed Time: 0.296 seconds
+File: C:\CodingProjects\C++\osisp_cp\krivonogov\files\in\2.txt, Start Time: 0.3 seconds, End Time: 0.594 seconds, Elapsed Time: 0.294 seconds
+File: C:\CodingProjects\C++\osisp_cp\krivonogov\files\in\3.txt, Start Time: 0.598 seconds, End Time: 0.897 seconds, Elapsed Time: 0.299 seconds
+File: C:\CodingProjects\C++\osisp_cp\krivonogov\files\in\4.txt, Start Time: 0.901 seconds, End Time: 1.197 seconds, Elapsed Time: 0.296 seconds
+File: C:\CodingProjects\C++\osisp_cp\krivonogov\files\in\5.txt, Start Time: 1.201 seconds, End Time: 1.495 seconds, Elapsed Time: 0.294 seconds
