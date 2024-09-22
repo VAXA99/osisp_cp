@@ -1,0 +1,6 @@
+Program Start Time: 0.001 seconds
+Program End Time: 1.349 seconds
+Program Elapsed Time: 1.348 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\kazak\files\in\1.txt, Start Time: 0.001 seconds, End Time: 1.347 seconds, Elapsed Time: 1.346 seconds
