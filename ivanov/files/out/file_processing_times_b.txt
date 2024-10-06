@@ -1,0 +1,10 @@
+Program Start Time: 0 seconds
+Program End Time: 0.398 seconds
+Program Elapsed Time: 0.398 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\ivanov\files\in\1.txt, Start Time: 0 seconds, End Time: 0.24 seconds, Elapsed Time: 0.24 seconds
+File: C:\CodingProjects\C++\osisp_cp\ivanov\files\in\5.txt, Start Time: 0.001 seconds, End Time: 0.255 seconds, Elapsed Time: 0.254 seconds
+File: C:\CodingProjects\C++\osisp_cp\ivanov\files\in\4.txt, Start Time: 0.001 seconds, End Time: 0.286 seconds, Elapsed Time: 0.285 seconds
+File: C:\CodingProjects\C++\osisp_cp\ivanov\files\in\2.txt, Start Time: 0 seconds, End Time: 0.354 seconds, Elapsed Time: 0.354 seconds
+File: C:\CodingProjects\C++\osisp_cp\ivanov\files\in\3.txt, Start Time: 0.001 seconds, End Time: 0.397 seconds, Elapsed Time: 0.396 seconds
