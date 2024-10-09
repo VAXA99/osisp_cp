@@ -1,0 +1,15 @@
+Program Start Time: 0.001 seconds
+Program End Time: 10.939 seconds
+Program Elapsed Time: 10.938 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\1.txt, Start Time: 0.001 seconds, End Time: 1.184 seconds, Elapsed Time: 1.183 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\2.txt, Start Time: 1.185 seconds, End Time: 2.313 seconds, Elapsed Time: 1.128 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\3.txt, Start Time: 2.314 seconds, End Time: 3.334 seconds, Elapsed Time: 1.02 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\4.txt, Start Time: 3.335 seconds, End Time: 4.423 seconds, Elapsed Time: 1.088 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\5.txt, Start Time: 4.424 seconds, End Time: 5.509 seconds, Elapsed Time: 1.085 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\6.txt, Start Time: 5.51 seconds, End Time: 6.59 seconds, Elapsed Time: 1.08 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\7.txt, Start Time: 6.591 seconds, End Time: 7.67 seconds, Elapsed Time: 1.079 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\8.txt, Start Time: 7.671 seconds, End Time: 8.761 seconds, Elapsed Time: 1.09 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\9.txt, Start Time: 8.762 seconds, End Time: 9.858 seconds, Elapsed Time: 1.096 seconds
+File: C:\CodingProjects\C++\osisp_cp\rusov\files\in\10.txt, Start Time: 9.859 seconds, End Time: 10.938 seconds, Elapsed Time: 1.079 seconds
