@@ -1,0 +1,15 @@
+Program Start Time: 0.001 seconds
+Program End Time: 6.216 seconds
+Program Elapsed Time: 6.215 seconds
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\1.txt, Start Time: 0.001 seconds, End Time: 0.409 seconds, Elapsed Time: 0.408 seconds, Number of Sentences: 121380
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\2.txt, Start Time: 0.411 seconds, End Time: 0.996 seconds, Elapsed Time: 0.585 seconds, Number of Sentences: 181890
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\3.txt, Start Time: 0.998 seconds, End Time: 1.412 seconds, Elapsed Time: 0.414 seconds, Number of Sentences: 121380
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\4.txt, Start Time: 1.415 seconds, End Time: 1.899 seconds, Elapsed Time: 0.484 seconds, Number of Sentences: 151690
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\5.txt, Start Time: 1.902 seconds, End Time: 2.689 seconds, Elapsed Time: 0.787 seconds, Number of Sentences: 242728
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\6.txt, Start Time: 2.691 seconds, End Time: 3.501 seconds, Elapsed Time: 0.81 seconds, Number of Sentences: 242760
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\7.txt, Start Time: 3.503 seconds, End Time: 4.495 seconds, Elapsed Time: 0.992 seconds, Number of Sentences: 303420
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\8.txt, Start Time: 4.497 seconds, End Time: 5.504 seconds, Elapsed Time: 1.007 seconds, Number of Sentences: 303410
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\9.txt, Start Time: 5.506 seconds, End Time: 6.11 seconds, Elapsed Time: 0.604 seconds, Number of Sentences: 182046
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\10.txt, Start Time: 6.112 seconds, End Time: 6.213 seconds, Elapsed Time: 0.101 seconds, Number of Sentences: 30342

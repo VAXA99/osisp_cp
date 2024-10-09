@@ -1,0 +1,7 @@
+Program Start Time: 0.002 seconds
+Program End Time: 0.445 seconds
+Program Elapsed Time: 0.443 seconds
+Total Sentence Count: 121380
+
+File Processing Times:
+File: C:\CodingProjects\C++\osisp_cp\dronov\files\in\1.txt, Start Time: 0.002 seconds, End Time: 0.442 seconds, Elapsed Time: 0.44 seconds, Number of Sentences: 121380
